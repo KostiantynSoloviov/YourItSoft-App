@@ -44,6 +44,7 @@ export default function Card({ firstIndex, lastIndex, users }) {
 const UsersWrap = styled.div`
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 30px;
     min-height: 75%;
     display: flex;
     -webkit-box-pack: center;
