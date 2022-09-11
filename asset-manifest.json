@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/YourItSoft-App/static/css/main.d0b0059a.chunk.css",
+    "main.js": "/YourItSoft-App/static/js/main.96b520f6.chunk.js",
+    "main.js.map": "/YourItSoft-App/static/js/main.96b520f6.chunk.js.map",
+    "runtime-main.js": "/YourItSoft-App/static/js/runtime-main.e507baa6.js",
+    "runtime-main.js.map": "/YourItSoft-App/static/js/runtime-main.e507baa6.js.map",
+    "static/css/2.c79dbdbc.chunk.css": "/YourItSoft-App/static/css/2.c79dbdbc.chunk.css",
+    "static/js/2.8c856c00.chunk.js": "/YourItSoft-App/static/js/2.8c856c00.chunk.js",
+    "static/js/2.8c856c00.chunk.js.map": "/YourItSoft-App/static/js/2.8c856c00.chunk.js.map",
+    "index.html": "/YourItSoft-App/index.html",
+    "static/css/2.c79dbdbc.chunk.css.map": "/YourItSoft-App/static/css/2.c79dbdbc.chunk.css.map",
+    "static/css/main.d0b0059a.chunk.css.map": "/YourItSoft-App/static/css/main.d0b0059a.chunk.css.map",
+    "static/js/2.8c856c00.chunk.js.LICENSE.txt": "/YourItSoft-App/static/js/2.8c856c00.chunk.js.LICENSE.txt",
+    "static/media/Vector.43eacf0c.svg": "/YourItSoft-App/static/media/Vector.43eacf0c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e507baa6.js",
+    "static/css/2.c79dbdbc.chunk.css",
+    "static/js/2.8c856c00.chunk.js",
+    "static/css/main.d0b0059a.chunk.css",
+    "static/js/main.96b520f6.chunk.js"
+  ]
+}
