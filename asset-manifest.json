@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/YourItSoft-App/static/css/main.d0b0059a.chunk.css",
-    "main.js": "/YourItSoft-App/static/js/main.96b520f6.chunk.js",
-    "main.js.map": "/YourItSoft-App/static/js/main.96b520f6.chunk.js.map",
+    "main.js": "/YourItSoft-App/static/js/main.6e4ec94a.chunk.js",
+    "main.js.map": "/YourItSoft-App/static/js/main.6e4ec94a.chunk.js.map",
     "runtime-main.js": "/YourItSoft-App/static/js/runtime-main.e507baa6.js",
     "runtime-main.js.map": "/YourItSoft-App/static/js/runtime-main.e507baa6.js.map",
     "static/css/2.c79dbdbc.chunk.css": "/YourItSoft-App/static/css/2.c79dbdbc.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.c79dbdbc.chunk.css",
     "static/js/2.8c856c00.chunk.js",
     "static/css/main.d0b0059a.chunk.css",
-    "static/js/main.96b520f6.chunk.js"
+    "static/js/main.6e4ec94a.chunk.js"
   ]
 }
