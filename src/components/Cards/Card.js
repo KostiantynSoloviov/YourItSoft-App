@@ -2,7 +2,7 @@ import { useState } from 'react';
 import PropTypes from 'prop-types';
 
 import CardItem from './CardItem';
-import Post from 'components/Posts/Post';
+import Post from '../Posts/Post';
 
 import styled from 'styled-components';
 
